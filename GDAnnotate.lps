@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="34">
+      <Unit0>
+        <Filename Value="GDAnnotate.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="28" Y="4"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="viewunit_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="ViewForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="viewunit_MAIN"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="263"/>
+        <CursorPos X="3" Y="285"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="noteorm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="NoteORM"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="27" Y="7"/>
+        <UsageCount Value="200"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="modelunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ModelUnit"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="4"/>
+        <CursorPos Y="21"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="viewmodelunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ViewModelUnit"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="221"/>
+        <CursorPos X="25" Y="258"/>
+        <UsageCount Value="193"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="utilityunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UtilityUnit"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="21"/>
+        <CursorPos X="5" Y="50"/>
+        <UsageCount Value="123"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\JSON\unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="211"/>
+        <CursorPos Y="240"/>
+        <UsageCount Value="16"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\newpascal\ccr\mORMot\SQLite3\mORMot.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="48317"/>
+        <CursorPos Y="48338"/>
+        <UsageCount Value="56"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\newpascal\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3953"/>
+        <CursorPos X="51" Y="3960"/>
+        <UsageCount Value="61"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\newpascal\ccr\mORMot\Synopse.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="175"/>
+        <CursorPos X="6" Y="188"/>
+        <UsageCount Value="40"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\newpascal\ccr\mORMot\SQLite3\mORMotSQLite3.pas"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="257"/>
+        <CursorPos X="61" Y="279"/>
+        <UsageCount Value="49"/>
+        <Loaded Value="True"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\newpascal\fpcsrc\packages\rtl-generics\src\generics.collections.pas"/>
+        <UnitName Value="Generics.Collections"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1449"/>
+        <CursorPos Y="1468"/>
+        <UsageCount Value="24"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\newpascal\ccr\mORMot\SynSelfTests.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="14417"/>
+        <CursorPos X="33" Y="14443"/>
+        <UsageCount Value="20"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="annotationparamsdialogunit.pas"/>
+        <ComponentName Value="AnnotationParamsDialog"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="AnnotationParamsDialogUnit"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="71"/>
+        <CursorPos Y="99"/>
+        <UsageCount Value="100"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\newpascal\lazarus\lcl\include\commondialog.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="170"/>
+        <CursorPos Y="202"/>
+        <UsageCount Value="24"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\newpascal\ccr\mORMot\SynSQLite3.pas"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="5357"/>
+        <CursorPos X="53" Y="5375"/>
+        <UsageCount Value="58"/>
+        <Loaded Value="True"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\newpascal\lazarus\lcl\include\font.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="506"/>
+        <CursorPos Y="525"/>
+        <UsageCount Value="10"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="textgraphicparamsdialogunit.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="46" Y="31"/>
+        <UsageCount Value="24"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:\newpascal\lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2532"/>
+        <CursorPos Y="2548"/>
+        <UsageCount Value="48"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\newpascal\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="492"/>
+        <CursorPos X="49" Y="495"/>
+        <UsageCount Value="47"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="viewunit.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="C:\newpascal\3rd Party\bgracontrols-master\bcbutton.pas"/>
+        <UnitName Value="BCButton"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="12" Y="81"/>
+        <UsageCount Value="10"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="D:\Lazarus1_8_Projects\KEYOLA_LEAK\mainformunit.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="5"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="D:\Lazarus1_8_Projects\KEYOLA_LEAK\project1.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos Y="17"/>
+        <UsageCount Value="5"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="C:\newpascal\3rd Party\bgracontrols-master\bcbasectrls.pas"/>
+        <UnitName Value="BCBaseCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="33"/>
+        <CursorPos X="43" Y="49"/>
+        <UsageCount Value="5"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="D:\BGRABitmap_9_9_1\bgrabitmap-master\bgrabitmap\bgrabitmaptypes.pas"/>
+        <UnitName Value="BGRABitmapTypes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="32"/>
+        <CursorPos X="40" Y="37"/>
+        <UsageCount Value="8"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="D:\BGRABitmap_9_9_1\bgrabitmap-master\test\testbgrafunc\utest3.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="37" Y="22"/>
+        <UsageCount Value="5"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="D:\BGRABitmap_9_9_1\bgrabitmap-master\test\testbgrafunc\utexture.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <UsageCount Value="5"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="D:\BGRABitmap_9_9_1\bgrabitmap-master\bgrabitmap\bgralayers.pas"/>
+        <UnitName Value="BGRALayers"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1045"/>
+        <CursorPos Y="1061"/>
+        <UsageCount Value="6"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="..\LayerTest\utilityunit.pas"/>
+        <UnitName Value="UtilityUnit"/>
+        <EditorIndex Value="12"/>
+        <TopLine Value="17"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="..\LayerTest\annotationparamsdialogunit.pas"/>
+        <ComponentName Value="AnnotationParamsDialog"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="AnnotationParamsDialogUnit"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="253"/>
+        <CursorPos X="62" Y="258"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="C:\newpascal\lazarus\lcl\include\statusbar.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="20"/>
+        <CursorPos Y="41"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="C:\newpascal\fpcsrc\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="99"/>
+        <CursorPos X="36" Y="116"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="D:\BGRABitmap_9_9_1\bgracontrols-master\bgravirtualscreen.pas"/>
+        <UnitName Value="BGRAVirtualScreen"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="330"/>
+        <CursorPos Y="350"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit33>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="viewmodelunit.pas"/>
+        <Caret Line="69" Column="34" TopLine="46"/>
+      </Position1>
+      <Position2>
+        <Filename Value="viewmodelunit.pas"/>
+        <Caret Line="219" Column="15" TopLine="18"/>
+      </Position2>
+      <Position3>
+        <Filename Value="viewunit_main.pas"/>
+        <Caret Line="131" Column="44" TopLine="123"/>
+      </Position3>
+      <Position4>
+        <Filename Value="viewunit_main.pas"/>
+        <Caret Line="341" Column="55" TopLine="320"/>
+      </Position4>
+      <Position5>
+        <Filename Value="viewunit_main.pas"/>
+        <Caret Line="325" Column="36" TopLine="325"/>
+      </Position5>
+      <Position6>
+        <Filename Value="viewunit_main.pas"/>
+        <Caret Line="327" Column="40" TopLine="326"/>
+      </Position6>
+      <Position7>
+        <Filename Value="viewunit_main.pas"/>
+        <Caret Line="328" Column="40" TopLine="327"/>
+      </Position7>
+      <Position8>
+        <Filename Value="viewunit_main.pas"/>
+        <Caret Line="329" Column="40" TopLine="328"/>
+      </Position8>
+      <Position9>
+        <Filename Value="viewunit_main.pas"/>
+        <Caret Line="336" Column="40" TopLine="335"/>
+      </Position9>
+      <Position10>
+        <Filename Value="viewunit_main.pas"/>
+        <Caret Line="231" TopLine="220"/>
+      </Position10>
+      <Position11>
+        <Filename Value="viewunit_main.pas"/>
+        <Caret Line="233" TopLine="222"/>
+      </Position11>
+      <Position12>
+        <Filename Value="viewunit_main.pas"/>
+        <Caret Line="226" Column="57" TopLine="222"/>
+      </Position12>
+      <Position13>
+        <Filename Value="viewunit_main.pas"/>
+        <Caret Line="225" Column="57" TopLine="221"/>
+      </Position13>
+      <Position14>
+        <Filename Value="modelunit.pas"/>
+        <Caret Line="21" TopLine="4"/>
+      </Position14>
+      <Position15>
+        <Filename Value="viewmodelunit.pas"/>
+        <Caret Line="8" Column="4"/>
+      </Position15>
+      <Position16>
+        <Filename Value="viewunit_main.pas"/>
+        <Caret Line="225" Column="57" TopLine="101"/>
+      </Position16>
+      <Position17>
+        <Filename Value="annotationparamsdialogunit.pas"/>
+        <Caret Line="159" TopLine="6"/>
+      </Position17>
+      <Position18>
+        <Filename Value="annotationparamsdialogunit.pas"/>
+        <Caret Line="133" Column="61" TopLine="127"/>
+      </Position18>
+      <Position19>
+        <Filename Value="annotationparamsdialogunit.pas"/>
+        <Caret Line="132" Column="61" TopLine="126"/>
+      </Position19>
+      <Position20>
+        <Filename Value="annotationparamsdialogunit.pas"/>
+        <Caret Line="131" Column="61" TopLine="125"/>
+      </Position20>
+      <Position21>
+        <Filename Value="annotationparamsdialogunit.pas"/>
+        <Caret Line="5" Column="33"/>
+      </Position21>
+      <Position22>
+        <Filename Value="annotationparamsdialogunit.pas"/>
+        <Caret Line="58" TopLine="46"/>
+      </Position22>
+      <Position23>
+        <Filename Value="annotationparamsdialogunit.pas"/>
+        <Caret Line="265" TopLine="250"/>
+      </Position23>
+      <Position24>
+        <Filename Value="annotationparamsdialogunit.pas"/>
+        <Caret Line="5" Column="38"/>
+      </Position24>
+      <Position25>
+        <Filename Value="annotationparamsdialogunit.pas"/>
+        <Caret Line="76" TopLine="48"/>
+      </Position25>
+      <Position26>
+        <Filename Value="annotationparamsdialogunit.pas"/>
+        <Caret Line="86" TopLine="61"/>
+      </Position26>
+      <Position27>
+        <Filename Value="viewmodelunit.pas"/>
+        <Caret Line="4" Column="35"/>
+      </Position27>
+      <Position28>
+        <Filename Value="viewmodelunit.pas"/>
+        <Caret Line="144" Column="39" TopLine="116"/>
+      </Position28>
+      <Position29>
+        <Filename Value="viewmodelunit.pas"/>
+        <Caret Line="269" TopLine="241"/>
+      </Position29>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="fbitm.fontfullheight"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <General>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <Title Value="GDAnnotate"/>
+      <Scaled Value="True"/>
+      <ResourceType Value="res"/>
+      <UseXPManifest Value="True"/>
+      <XPManifest>
+        <DpiAware Value="True"/>
+      </XPManifest>
+      <Icon Value="0"/>
+    </General>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0"/>
+    </RunParams>
+    <RequiredPackages Count="5">
+      <Item1>
+        <PackageName Value="SynEditDsgn"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="SynEdit"/>
+      </Item2>
+      <Item3>
+        <PackageName Value="bgracontrols"/>
+      </Item3>
+      <Item4>
+        <PackageName Value="BGRABitmapPack"/>
+      </Item4>
+      <Item5>
+        <PackageName Value="LCL"/>
+      </Item5>
+    </RequiredPackages>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="GDAnnotate.lpr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="viewunit_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="ViewForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="viewunit_MAIN"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="noteorm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="NoteORM"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="modelunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ModelUnit"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="viewmodelunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ViewModelUnit"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="utilityunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UtilityUnit"/>
+      </Unit5>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="GDAnnotate"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <OtherUnitFiles Value="C:\newpascal\ccr\mORMot\"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <Linking>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+    <Other>
+      <CustomOptions Value="-gh
+-dDEBUG
+-dBGRABITMAP_USE_LCL"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
