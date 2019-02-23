@@ -59,7 +59,7 @@ unit viewunit_MAIN;  //  THIS IS THE MAIN FORM.
 {  working in Client-Server mode in associated with an automatically-generated  }
 {  SQLite3 database.                                                            }
 
-{ UNIT STRUCTURE GDANNOTATE:
+{ UNIT STRUCTURE GDANNOTATE:                                                    }
 }
 { ViewUnit_MAIN.pas (This unit) - contains only GUI items (VIEW).               }
 { ModelUnit.pas - the MODEL which holds object classes ('business logic').      }
