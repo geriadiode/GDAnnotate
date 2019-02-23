@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\newpascal\fpc\bin\i386-win32\fpc.exe" Date="1312078091"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq -FiC:\Users\BOB\Documents\GitHub\GDAnnotate\lib\i386-win32 -FuC:\newpascal\ccr\mORMot -FuC:\newpascal\lazarus\components\synedit\design\units\i386-win32\win32 -FuD:\BGRABitmap_9_9_1\bgracontrols-master\lib\i386-win32\3.1.1 -FuC:\newpascal\lazarus\components\ideintf\units\i386-win32\win32 -FuC:\newpascal\lazarus\components\synedit\units\i386-win32\win32 -FuC:\newpascal\lazarus\components\lazcontrols\lib\i386-win32\win32 -FuD:\BGRABitmap_9_9_1\bgrabitmap-master\bgrabitmap\lib\i386-win32\3.1.1 -FuC:\newpascal\lazarus\lcl\units\i386-win32\win32 -FuC:\newpascal\lazarus\lcl\units\i386-win32 -FuC:\newpascal\lazarus\components\lazutils\lib\i386-win32 -FuC:\newpascal\lazarus\packager\units\i386-win32 -FuC:\Users\BOB\Documents\GitHub\GDAnnotate\ -FUC:\Users\BOB\Documents\GitHub\GDAnnotate\lib\i386-win32\ -FEC:\Users\BOB\Documents\GitHub\GDAnnotate\ -oC:\Users\BOB\Documents\GitHub\GDAnnotate\GDAnnotate.exe -dLCL -dLCLwin32 -gh -dDEBUG -dBGRABITMAP_USE_LCL GDAnnotate.lpr"/>
-</CONFIG>
